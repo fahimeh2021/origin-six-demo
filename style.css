@@ -75,6 +75,13 @@ li:hover {
   align-items: center;
   cursor: pointer;
 }
+#times {
+  float: right;
+  padding-right: 15px;
+  padding-top: 15px;
+  border-style: none;
+  background-color: pink;
+}
 
 .hero {
   display: flex;
